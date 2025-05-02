@@ -28,6 +28,9 @@
 ### 開発モードでのインストール
 
 1. このリポジトリをクローンまたはダウンロード
+   ```
+   git clone https://github.com/ueponx/page-image-downloader.git
+   ```
 2. Chromeブラウザで `chrome://extensions/` にアクセス
 3. 右上の「デベロッパーモード」を有効化
 4. 「パッケージ化されていない拡張機能を読み込む」をクリック
@@ -62,4 +65,10 @@ page-image-downloader/
 
 ## ライセンス
 
-[MIT License](LICENSE)
+MIT License - 詳細は [LICENSE](LICENSE) ファイルを参照してください
+
+## 謝辞
+
+- この拡張機能は多くのオープンソースプロジェクトに支えられています
+- アイコンの素材は[こちら](https://fonts.google.com/icons)を使用しています。
+

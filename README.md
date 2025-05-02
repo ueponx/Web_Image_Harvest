@@ -1,5 +1,7 @@
 # Page Image Downloader
 
+![page-image-downloader icon](images/icon128.png)
+
 ウェブページ内のすべての画像を簡単にダウンロードするためのChrome拡張機能です。
 
 ## 機能

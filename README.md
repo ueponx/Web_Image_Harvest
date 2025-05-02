@@ -1,4 +1,4 @@
-# Page Image Downloader
+# Web_Image_Harvest
 
 ![page-image-downloader icon](images/icon128.png)
 
@@ -31,7 +31,7 @@
 
 1. このリポジトリをクローンまたはダウンロード
    ```
-   git clone https://github.com/ueponx/page-image-downloader.git
+   git clone https://github.com/ueponx/Web_Image_Harvest.git
    ```
 2. Chromeブラウザで `chrome://extensions/` にアクセス
 3. 右上の「デベロッパーモード」を有効化
@@ -41,14 +41,14 @@
 ## 使用方法
 
 1. 画像をダウンロードしたいウェブページにアクセス
-2. Chrome ツールバーの「Page Image Downloader」アイコンをクリック
+2. Chrome ツールバーの「Web_Image_Harvest」アイコンをクリック
 3. ポップアップ内の「すべての画像をダウンロード」ボタンをクリック
 4. 画像はChromeのダウンロードフォルダ内のタイムスタンプ付きフォルダに保存されます
 
 ## プロジェクト構成
 
 ```
-page-image-downloader/
+Web_Image_Harvest/
 ├── manifest.json           // 拡張機能の設定ファイル
 ├── popup.html              // ポップアップUI
 ├── popup.js                // ポップアップの制御スクリプト
